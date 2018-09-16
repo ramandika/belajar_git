@@ -1,0 +1,3 @@
+Ini baris 1
+Ini baris 2
+Ini baris 3
